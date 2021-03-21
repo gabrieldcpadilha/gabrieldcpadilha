@@ -1,5 +1,6 @@
 <h1 align="center"> 
 	✅Bem vindo ao meu GitHub🚀
+	<<em construção>>>
 </h1>
 
 ### 👦Sobre mim :seedling: : 
@@ -9,9 +10,9 @@
 - 💼 Atualmente sou estudante de análise e desenvolvimento de sistema na unip campus Araraquara. 
  Meu foco nos estudos fora da faculdade é na área de Backend.
 - 🎓 Adquiri Diversos **Cursos Online([Cerificados](https://github.com/gabrieldcpadilha/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
-- 💬 "Se te oferecerem um lugar dentro de um foguete, não pergunte qual é o assento, simplesmente embarque!" Sheryl, Sandberg
 - 🛠️ Estudando para me tornar um **data engineer**.
-- 🔭 Curiosidades: Corredor e Cada dia mais amando indo pra academia rsrs
+- 🔭 Curiosidades: Amante de academia e camping rsrs
+- 💬 "Se te oferecerem um lugar dentro de um foguete, não pergunte qual é o assento, simplesmente embarque!" Sheryl, Sandberg
 
 <hr>
 
