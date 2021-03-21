@@ -1,6 +1,6 @@
 <h1 align="center"> 
 	✅Bem vindo ao meu GitHub🚀
-	<<em construção>>>
+	<<em construção>>
 </h1>
 
 ### 👦Sobre mim :seedling: : 
