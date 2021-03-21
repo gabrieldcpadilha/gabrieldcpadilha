@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**gabrieldcpadilha/gabrieldcpadilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center"> 
 	✅Bem vindo ao meu GitHub🚀
 </h1>
