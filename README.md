@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center"> 
 	✅Bem vindo ao meu GitHub🚀
 </h1>
