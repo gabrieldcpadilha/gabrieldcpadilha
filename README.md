@@ -31,7 +31,8 @@
 [![Erickson github stats](https://github-readme-stats.vercel.app/api?username=gabrieldcpadilha&theme=cobalt&show_icons=true)](https://github.com/gabrieldcpadilha/github-readme-stats)
 
 ### 📈  linguagens mais usadas 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldcpadilhahide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldcpadilha=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+
 
 <hr>
 
