@@ -7,9 +7,9 @@
 - 👋 Me chamo **Gabriel Padilha**, tenho 29 anos.
 - 🔉 Sou PCD e possuo perda moderada no ouvido esquerdo (~55%) e perda quase total no ouvido direito (deficiencia fisica de nascença) .
 - 📌  De Sarutaiá para São Carlos, São Paulo, Brasil.
-- 💼 Atualmente sou estudante de análise e desenvolvimento de sistema na unip campus Araraquara. 
+- 💼 Atualmente sou estudante de Análise e Desenvolvimento de Sistema na UNIP campus Araraquara. 
  Meu foco nos estudos fora da faculdade é na área de Backend.
-- 🎓 Adquiri Diversos **Cursos Online([Cerificados](https://github.com/gabrieldcpadilha/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
+- 🎓 Adquiri Diversos **Cursos Online ([Cerificados](https://github.com/gabrieldcpadilha/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
 - 🛠️ Estudando para me tornar um **data engineer**.
 - 🔭 Curiosidades: Amante de academia e camping rsrs
 - 💬 "Se te oferecerem um lugar dentro de um foguete, não pergunte qual é o assento, simplesmente embarque!" Sheryl, Sandberg
