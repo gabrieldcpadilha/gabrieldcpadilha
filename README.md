@@ -18,7 +18,7 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF) ![Pacote Office](https://img.shields.io/badge/-Excel-3776AB?&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
 
 ### 📦 Databases:
-- ![SQL](https://img.shields.io/badge/-SQLite-4479A1?&logo=sqlite&logoColor=FFFFFF)
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=sqlite&logoColor=FFFFFF)
 
 
 ### 🧰 Ferramentas:
