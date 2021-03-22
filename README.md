@@ -17,7 +17,7 @@
 <hr>
 
 ### ⚡ Habilidades:
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/-Csharp-7289DA?&logo=Csharp&logoColor=blueviolet) ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF) ![Pacote Office](https://img.shields.io/badge/-Excel-3776AB?&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-E34F26?&logo=Java&logoColor=FF6347) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) ![C#](https://img.shields.io/badge/-Csharp-7289DA?&logo=Csharp&logoColor=blueviolet) ![Visualização De Dados](https://img.shields.io/badge/-Visualização%20De%20Dados-3776AB?&logoColor=FFFFFF) ![Pacote Office](https://img.shields.io/badge/-Excel-3776AB?&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF) ![Java](https://img.shields.io/badge/-Java-FF6347?&logo=Java&logoColor=FF6347) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
 
 
 ### 🧰 Ferramentas:
