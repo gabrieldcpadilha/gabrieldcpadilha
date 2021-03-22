@@ -9,7 +9,7 @@
 - 📌  De Sarutaiá para São Carlos, São Paulo, Brasil.
 - 📚 Atualmente sou estudante de Análise e Desenvolvimento de Sistema na UNIP campus Araraquara. 
  Meu foco nos estudos fora da faculdade é na área de Backend.
-- 🎓 Adquiri diversos **Cursos Online ([Cerificados](https://github.com/gabrieldcpadilha/Certificates))**, **Documentações**, **Pesquisas** e muita **Prática** como um Bom **Autodidata**! 
+- 🎓 Adquiri diversos **Cursos Online ([Cerificados](https://github.com/gabrieldcpadilha/Certificates))**, e muita **Prática** como um Bom **Autodidata**! 
 - 🛠️ Estudando para me tornar um **data engineer**.
 - 🔭 Curiosidades: Amo cozinhar, camping e de vez enquanto ir pra academia rsrs
 - 💬 "Se te oferecerem um lugar dentro de um foguete, não pergunte qual é o assento, simplesmente embarque!" Sheryl, Sandberg
