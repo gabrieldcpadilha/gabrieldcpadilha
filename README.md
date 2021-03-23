@@ -1,6 +1,5 @@
 <h1 align="center"> 
 	🚀 Bem vindo ao meu GitHub 🚀
-	(em construção)
 </h1>
 
 ### 🖖 Sobre mim 🖖: 
@@ -27,12 +26,12 @@
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=sqlite&logoColor=FFFFFF)
 
 
-### 📈  Estatísticas gerais 
- 
-[![gabrieldcpadilha github stats](https://github-readme-stats.vercel.app/api?username=gabrieldcpadilha&theme=cobalt&show_icons=true)](https://github.com/gabrieldcpadilha/github-readme-stats)
-
 ### 💬  Linguagens mais usadas 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldcpadilha&theme=blue-green)
+
+
+### 📈  Estatísticas gerais 
+[![gabrieldcpadilha github stats](https://github-readme-stats.vercel.app/api?username=gabrieldcpadilha&theme=cobalt&show_icons=true)](https://github.com/gabrieldcpadilha/github-readme-stats)
 
 
 <hr>
