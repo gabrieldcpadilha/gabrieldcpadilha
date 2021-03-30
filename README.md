@@ -39,5 +39,5 @@
 ## 📲 Entre em contato! ✉️
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gabrieldcpadilha)](https://www.linkedin.com/in/gabrieldcpadilha/)
- [![Gmail Badge](https://img.shields.io/badge/-ofc.gdcpadilhan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gdcpadilha@gmail.com)](mailto:ofc.gdcpadilha@gmail.com)
+ [![Gmail Badge](https://img.shields.io/badge/-ofc.gdcpadilha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gdcpadilha@gmail.com)](mailto:ofc.gdcpadilha@gmail.com)
  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/im_gabrielpadilha/)
