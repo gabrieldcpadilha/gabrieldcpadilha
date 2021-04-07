@@ -3,7 +3,7 @@
 </h1>
 
 ### 🖖 Sobre mim 🖖: 
-- 👋 Me chamo **Gabriel Padilha**, tenho 30 anos.
+- 👋 Me chamo **Gabriel Padilha**, nasci em 1991.
 - 🔉 Sou PCD e possuo perda moderada no ouvido esquerdo (~55%) e perda quase total no ouvido direito (deficiencia fisica de nascença) .
 - 📌  De Sarutaiá para São Carlos, São Paulo, Brasil.
 - 📚 Atualmente sou estudante de Análise e Desenvolvimento de Sistema na UNIP campus Araraquara. 
