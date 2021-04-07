@@ -24,13 +24,13 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=FFFFFF)
 ![CSS](https://img.shields.io/badge/CSS-239120?&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?&logo=javascript&logoColor=black)
-
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
 
 
 ### 🧰 Ferramentas:
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF)
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
+![Eclipse](https://img.shields.io/badge/Eclipse-0A0A0A?&logo=dev.to&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
 ![Power shell](https://img.shields.io/badge/-PowerShell-0078D6?&logo=Windows&logoColor=FFFFFF)
 ![SVN Subversion](https://img.shields.io/badge/-SubversionSVN-0078D6?&logo=Windows&logoColor=FFFFFF)
