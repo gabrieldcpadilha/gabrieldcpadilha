@@ -48,7 +48,7 @@
 
 
 ### 📈  Estatísticas gerais 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldcpadilha&show_icons=true&theme=tokyonight)](https://github.com/gabrieldcpadilha/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldcpadilha&show_icons=true&theme=tokyonight)
 
 
 <hr>
