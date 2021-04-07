@@ -30,8 +30,8 @@
 ### 🧰 Ferramentas:
 - ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
 ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF)
 ![Power shell](https://img.shields.io/badge/-PowerShell-0078D6?&logo=Windows&logoColor=FFFFFF)
 ![SVN Subversion](https://img.shields.io/badge/-SubversionSVN-0078D6?&logo=Windows&logoColor=FFFFFF)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-FCC624?&logo=Linux&logoColor=FFFFFF)
