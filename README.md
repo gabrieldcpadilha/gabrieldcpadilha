@@ -18,18 +18,8 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
 
-
-### 🧰 Ferramentas:
-- ![PyCharm](https://img.shields.io/badge/-PyCharm-181717?&logo=PyCharm&logoColor=FFFFFF)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?&logo=Visual%20Studio%20Code&logoColor=FFFFFF)
-
-
 ### 📦 Banco de dados:
 - ![Microsoft SQL](https://img.shields.io/badge/Microsoft_SQL-CC2927?&logo=microsoft-sql-server&logoColor=white)
-
-
-### 💬  Linguagens mais usadas 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldcpadilha&theme=tokyonight)
 
 
 ### 📈  Estatísticas gerais 
