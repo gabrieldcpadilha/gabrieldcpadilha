@@ -3,7 +3,6 @@
 </h1>
 
 ### 🖖 Sobre mim 🖖: 
-- 👋 Me chamo **Gabriel Padilha**, nascido em 1991.
 - 📌 De Sarutaiá para São Carlos, São Paulo, Brasil.
 - 📚 Atualmente sou estudante de Análise e Desenvolvimento de Sistema na UNIP campus Araraquara. 
 - 🎓 Adquiri diversos **Cursos Online ([Certificados](https://github.com/gabrieldcpadilha/Certificates))**, e muita **Prática** como um Bom **Autodidata**! 
