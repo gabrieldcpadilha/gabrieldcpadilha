@@ -4,12 +4,10 @@
 
 ### 🖖 Sobre mim 🖖: 
 - 👋 Me chamo **Gabriel Padilha**, nascido em 1991.
-- 🔉 Sou PcD e possuo perda moderada no ouvido esquerdo (~55%) e perda avançada no ouvido direito.
 - 📌 De Sarutaiá para São Carlos, São Paulo, Brasil.
 - 📚 Atualmente sou estudante de Análise e Desenvolvimento de Sistema na UNIP campus Araraquara. 
 - 🎓 Adquiri diversos **Cursos Online ([Certificados](https://github.com/gabrieldcpadilha/Certificates))**, e muita **Prática** como um Bom **Autodidata**! 
-- 🛠️ Estudando **Desenvolvimento Backend & Cloud Computing**.
-- 🔭 Curiosidades: Gosto de cozinhar, camping e rally;
+- 🛠️ Estudando **Gestao de Projetos & Cloud Computing**.
 - 💬 "Se te oferecerem um lugar dentro de um foguete, não pergunte qual é o assento, simplesmente embarque!" Sheryl, Sandberg
 
 <hr>
