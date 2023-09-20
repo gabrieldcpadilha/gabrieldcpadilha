@@ -14,15 +14,10 @@
 ### ⚡ Habilidades:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/-Java-23ED8B00?&logo=Java&logoColor=FFFFFF)
-
+![Java](https://img.shields.io/badge/-Java-ffa500?&logo=Java&logoColor=FFFFFF)
 
 ### 📦 Banco de dados:
 - ![Microsoft SQL](https://img.shields.io/badge/Microsoft_SQL-CC2927?&logo=microsoft-sql-server&logoColor=white)
-
-
-### 📈  Estatísticas gerais 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldcpadilha&show_icons=true&theme=tokyonight)
 
 <hr>
 
