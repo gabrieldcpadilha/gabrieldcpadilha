@@ -6,7 +6,7 @@
 - 📌 De Sarutaiá para Mundo!
 - 📚 Formado em Análise e Desenvolvimento de Sistema na UNIP campus Araraquara. 
 - 🎓 Adquiri diversos **Cursos Online ([Certificados](https://github.com/gabrieldcpadilha/Certificates))**, e muita **Prática** como um Bom **Autodidata**! 
-- 🛠️ Estudando **Gestao de Projetos & Cloud Computing**.
+- 🛠️ Estudando **Gestao de Projetos & Cloud Computing e sempre com aquele pezinho na programaçao :)**.
 - 💬 "Se te oferecerem um lugar dentro de um foguete, não pergunte qual é o assento, simplesmente embarque!" Sheryl, Sandberg
 
 <hr>
