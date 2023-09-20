@@ -14,7 +14,7 @@
 ### ⚡ Habilidades:
 - ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF)
 ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-23ED8B00?&logo=Java&logoColor=FFFFFF)
 
 
 ### 📦 Banco de dados:
